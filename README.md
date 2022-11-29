@@ -1,2 +1,2 @@
 # product-preview
- Product preview coded using HTML5 and CSS3 for a frontendmentor.io challenge.
+HTML and CSS product preview page developed for study. #frontendmentor.io
